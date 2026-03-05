@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 377.95276 377.95277"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="整流式继电器.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.6239296"
+     inkscape:cx="208.75289"
+     inkscape:cy="101.60539"
+     inkscape:window-width="1920"
+     inkscape:window-height="1112"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9"
+     showguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="直流无极继电器（两线圈串接）"
+     id="g9"
+     style="display:inline"
+     transform="matrix(5.0000266,0,0,5.0000266,-40981.468,17437.074)">
+    <path
+       d="m 8250.5084,-3449.6012 a 16.463305,16.463305 0 0 0 -32.9266,0 16.463305,16.463305 0 0 0 32.9266,0 z"
+       style="fill:none;stroke:#000000;stroke-width:1.08898"
+       id="path8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8250.5084,-3449.5867 -32.9266,-0.029"
+       id="path1" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8217.5818,-3449.6012 H 8196.25"
+       id="path10" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8250.5084,-3449.6012 h 21.3318"
+       id="path11" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
+       id="path12"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="8205.6719"
+       sodipodi:cy="-3436.4707"
+       sodipodi:r1="10.23263"
+       sodipodi:r2="5.1163149"
+       sodipodi:arg1="0.78114287"
+       sodipodi:arg2="1.8283404"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 8212.9382,-3429.266 -17.1389,-4.5143 12.4789,-12.5855 z"
+       inkscape:transform-center-x="12.765111"
+       inkscape:transform-center-y="-0.029034243"
+       transform="rotate(-104.82366,8216.9899,-3455.7193)" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.13385225;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8228.2609,-3439.8657 v -19.6873"
+       id="path13" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>大头烧三月</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
